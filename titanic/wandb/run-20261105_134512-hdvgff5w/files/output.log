@@ -1,0 +1,10 @@
+Epoch  10/100 - Loss: 0.4381 - Val Acc: 0.8246
+Epoch  20/100 - Loss: 0.3853 - Val Acc: 0.8172
+Epoch  30/100 - Loss: 0.3719 - Val Acc: 0.8097
+Epoch  40/100 - Loss: 0.3564 - Val Acc: 0.8209
+Epoch  50/100 - Loss: 0.3524 - Val Acc: 0.8060
+Epoch  60/100 - Loss: 0.3463 - Val Acc: 0.8172
+Epoch  70/100 - Loss: 0.3422 - Val Acc: 0.8134
+Epoch  80/100 - Loss: 0.3385 - Val Acc: 0.8060
+Epoch  90/100 - Loss: 0.3383 - Val Acc: 0.8060
+Epoch 100/100 - Loss: 0.3378 - Val Acc: 0.8097

@@ -1,0 +1,25 @@
+{
+  "selected_model": "Random Forest",
+  "random_state": 42,
+  "features": [
+    "Pclass",
+    "Sex",
+    "Age",
+    "Fare",
+    "Embarked",
+    "Title",
+    "FamilySize",
+    "IsAlone",
+    "IsChild",
+    "IsMother",
+    "Deck",
+    "HasCabin",
+    "Fare_Pclass",
+    "Age_Pclass",
+    "TicketPrefix",
+    "SibSp",
+    "Parch"
+  ],
+  "train_rows": 891,
+  "test_rows": 418
+}

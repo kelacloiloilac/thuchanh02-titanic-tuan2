@@ -1,0 +1,40 @@
+{
+  "os":  "Windows-10-10.0.26300-SP0",
+  "python":  "CPython 3.10.6",
+  "startedAt":  "2026-11-05T06:45:40.987696Z",
+  "program":  "c:\\Users\\kelac\\Downloads\\HOCTAP\\deeplearning\\quytrinhhocsau\\thuchanh02-titanic\\titanic\\titanic_pytorch_s2.ipynb",
+  "codePath":  "c:\\Users\\kelac\\Downloads\\HOCTAP\\deeplearning\\quytrinhhocsau\\thuchanh02-titanic\\titanic\\titanic_pytorch_s2.ipynb",
+  "codePathLocal":  "titanic_pytorch_s2.ipynb",
+  "email":  "3124580068@sv.sgu.edu.vn",
+  "root":  "c:\\Users\\kelac\\Downloads\\HOCTAP\\deeplearning\\quytrinhhocsau\\thuchanh02-titanic\\titanic",
+  "host":  "MSI",
+  "executable":  "c:\\Users\\kelac\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "483656724480",
+      "used":  "436691464192"
+    }
+  },
+  "memory":  {
+    "total":  "16869146624"
+  },
+  "cpu":  {
+    "model":  "13th Gen Intel(R) Core(TM) i5-13420H"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  2048,
+      "architecture":  "Ampere",
+      "uuid":  "GPU-b96f2ada-3df5-ceb7-8bc2-8192654ce956",
+      "pciBusId":  "00000000:01:00.0"
+    }
+  ],
+  "cudaVersion":  "13.5",
+  "writerId":  "01a1aa74-c20d-7cb1-825c-3527cc77b7b4"
+}
